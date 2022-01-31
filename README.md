@@ -106,6 +106,7 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * Go to your user dashboard and create a new repository. Experiment with the features within that repository to familiarize yourself with them. 
 * Let us know what you liked or didn’t like about the content of this course. What would you like to see more of? What would be interesting or helpful to your learning journey? Take our survey. 
 * Kenny was here....
+* King in the castle, king in the castle, I have a chair, I have a chair.
 
 ## 📚  Resources 
 * [A short video explaining what GitHub is](https://www.youtube.com/watch?v=w3jLJU7DT5E&feature=youtu.be) 
